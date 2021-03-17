@@ -27,7 +27,7 @@ I have some Hospital data that are present in excel sheets. So requirement is to
 
 ## What:
 
-**Finding the Patient details **
+**Finding the Patient details**
 
 ## When:
 
