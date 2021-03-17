@@ -19,6 +19,10 @@ Here I'm using Python 3 methods to work with Excel Sheets to find the particular
 
 ## SWOT ANALYSIS
 
+![SWOT_HOSPITAL](https://user-images.githubusercontent.com/78870150/111472188-bbed7680-874f-11eb-9978-9a445d74c902.PNG)
+
+
+
 # 4W&#39;s and 1&#39;H
 
 ## Who:
