@@ -10,12 +10,12 @@ I have some Hospital data that are present in excel sheets. So requirement is to
 Here I'm using Python 3 methods to work with Excel Sheets to find the particular data that are available on five different sheets and Print in to the another Master Sheet.
 
 ## Defining Our System
- 1.Patient ID
- 2.Patient Name
- 3.Patient Mobile Number
- 4.Patient's Age
- 5.Patient's Weight
- 6.Patient's Height 
+    1. Patient ID
+    2. Patient Name
+    3. Patient Mobile Number
+    4. Patient's Age
+    5. Patient's Weight
+    6. Patient's Height 
 
 ## SWOT ANALYSIS
 
