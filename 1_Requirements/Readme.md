@@ -7,7 +7,7 @@ I have some Hospital data that are present in excel sheets. So requirement is to
 
 ## Research
 
-**Here I'm using Python 3 methods to work with Excel Sheets to find the particular data that are available on five different sheets and Print in to the another Master Sheet.**
+Here I'm using Python 3 methods to work with Excel Sheets to find the particular data that are available on five different sheets and Print in to the another Master Sheet.
 
 ## Defining Our System
  1.Patient ID
