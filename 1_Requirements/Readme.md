@@ -43,10 +43,10 @@ I have some Hospital data that are present in excel sheets. So requirement is to
 
 # Detail requirements
 ## High Level Requirements:
+ 1. Finding data from five different sheets.
+ 2. Creating mastersheet for required data in the same excel file.
  
- 
-
-
 ##  Low level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+ 1. The data sheet contains 40 rows and 10 columns.
+ 2. Extracting data from all sheets according to the user.
+ 3. Reading the data usung Python predefined functions.
