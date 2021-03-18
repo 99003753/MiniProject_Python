@@ -1,7 +1,7 @@
 # Requirements
 ## Introduction
  
-I have some Hospital data that are present in excel sheets. So requirement is to make a program in which the user finds a particular patient data that are present in the sheets and it will be displayed in another Master Sheet.
+I have some Hospital data that are present in excel sheets. So requirement is to make a program in which the user finds a particular data that are present in the sheets and it will be displayed in another Master Sheet.
 
  
 
