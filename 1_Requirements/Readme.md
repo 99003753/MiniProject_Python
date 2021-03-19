@@ -53,4 +53,4 @@ Here I'm using Python 3 methods to work with Excel Sheets to find the particular
 ##  Low level Requirements:
  1. The data sheet contains 40 rows and 10 columns.
  2. Extracting data from all sheets according to the user.
- 3. Reading the data usung Python predefined functions.
+ 3. Reading the data using Python predefined functions.
