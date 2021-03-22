@@ -44,6 +44,26 @@ Here I'm using Python 3 methods to work with Excel Sheets to find the particular
 ## How:
 
 **By using python programming.**
+# Detail requirements
+## High Level Requirements:
+|*ID*  |*Requirements*  | *Description*  |*Status*  |
+| --- | --- | --- | --- |
+|HL1 | Search data from sheet |Search all data from 5 different sheets according to user input.|IMPLEMENTED|
+|HL2 | Creating  MasterSheet  | Fetch data from different sheets and write in one Master Sheet|IMPLEMENTED |
+|HL3 |Take Multiple Input | Write required data in the excel file. |IMPLEMENTED |
+
+ 
+##  Low level Requirements:
+ 
+|*ID*  |*Requirments*  | *Description*  |*Status*  |
+| --- | --- | --- | --- |
+|LL001 | Each Sheet Contains 40 rows and 10 coloumn | All 5 sheet have 40 rows and 10 coloumn |IMPLEMENTED |
+|LL002 | Excel file format | The Excel file Must be of .xslx format |IMPLEMENTED |
+|LL003 |Multiple Input | User Can get Multiple Data according to the requirment |IMPLEMENTED |
+|LL004 |Searching Data |Search for specific data based on user specific inputs from all 5 sheets |IMPLEMENTED |
+|LL005 | Master Sheet Creation | MasteSheet will be created with the required data which user wants |IMPLEMENTED |
+|LL006 | Bar Graph Sheet Creation | MasteSheet will contain Bar Graph from the data avilable in mastersheet |IMPLEMENTED |
+
 
 # Detail requirements
 ## High Level Requirements:
