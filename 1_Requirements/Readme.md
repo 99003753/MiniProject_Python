@@ -44,7 +44,9 @@ Here I'm using Python 3 methods to work with Excel Sheets to find the particular
 ## How:
 
 **By using python programming.**
+
 # Detail requirements
+
 ## High Level Requirements:
 |*ID*  |*Requirements*  | *Description*  |*Status*  |
 | --- | --- | --- | --- |
@@ -64,13 +66,3 @@ Here I'm using Python 3 methods to work with Excel Sheets to find the particular
 |LL005 | Master Sheet Creation | MasteSheet will be created with the required data which user wants |Done |
 |LL006 | Bar Graph Sheet Creation | MasteSheet will contain Bar Graph from the data avilable in mastersheet |Done |
 
-
-# Detail requirements
-## High Level Requirements:
- 1. Finding data from five different sheets.
- 2. Creating mastersheet for required data in the same excel file.
- 
-##  Low level Requirements:
- 1. The data sheet contains 40 rows and 10 columns.
- 2. Extracting data from all sheets according to the user.
- 3. Reading the data using Python predefined functions.
