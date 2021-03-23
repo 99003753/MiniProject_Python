@@ -1,7 +1,7 @@
 from openpyxl import load_workbook
 from openpyxl.chart import BarChart, Reference
 # Giving the path of the excel file
-workbook = load_workbook(r"D:\Mini_project\Hospital.xlsx")
+workbook = load_workbook(r"Hospital.xlsx")
 # Getting the sheet names
 sheet_list = workbook.get_sheet_names()
 
@@ -16,7 +16,7 @@ def doc_hos(workbook, sheet_name, doc_num):
             mastersheet.append([cell_value(sheet_name, 1, 1), cell_value(sheet_name, i, 1)])
             for j in range(2, sheet_name.max_column + 1):
                 mastersheet.append([cell_value(sheet_name, 1, j), cell_value(sheet_name, i, j)])
-                workbook.save(r"D:\Mini_project\Hospital.xlsx")
+                workbook.save(r"Hospital.xlsx")
 
 # Defining function
 def cell_value(cel1, cel2, cel3):
@@ -44,4 +44,4 @@ chart.title = " BAR-CHART "
 chart.x_axis.title = " X_AXIS "
 chart.y_axis.title = " Y_AXIS "
 mastersheet.add_chart(chart, "E2")
-workbook.save("D:\Mini_project\Hospital.xlsx")
+workbook.save("Hospital.xlsx")
